@@ -1,0 +1,8 @@
+com\chatsocket\rest\ChatController.class
+com\chatsocket\helper\ApplicationConstants.class
+com\chatsocket\utils\ChatListener.class
+com\chatsocket\rest\RestApplicationScanner.class
+com\chatsocket\helper\Helper.class
+com\chatsocket\utils\SocketUtils.class
+com\chatsocket\servlets\LoginServlet.class
+com\chatsocket\utils\ChatUtils.class
